@@ -1,0 +1,35 @@
+body {
+    background-color: #dde0e7;
+}
+#logo {
+    color: rgb(255, 136, 0);
+    font-size: 38px;
+    text-align: center;
+}
+    #f-line {
+        width: 1870px;
+        margin: 0 auto;
+        border: none;                 
+        border-top: 3px solid black;
+    }
+#by-main {
+    color: rgb(44, 44, 44);
+    font-size: 20px;
+}
+#tieu-de {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+.noidung {
+    color: black;
+    font-size: 27px;
+    margin: 0 auto;
+}
+img {
+    
+    width: 1600px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
